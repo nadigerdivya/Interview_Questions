@@ -13,7 +13,7 @@ ReactJs
 
 Redux
 ----------
-1. React workflow.
+1. Redux workflow.
 
 Previous Experience related
 --------------------------------
