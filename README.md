@@ -21,3 +21,7 @@ Previous Experience related
 2. Why moved towards React?
 3. What is your role?
 4. What components you have worked on? Explain? - related to react.
+
+Coding
+----------
+1. React status bar based on object consisting of 3 values - critical, warning and normal.
