@@ -25,3 +25,4 @@ Previous Experience related
 Coding
 ----------
 1. React status bar based on object consisting of 3 values - critical, warning and normal.
+    - Need to fetch the values from props and assign it to div element's width.
