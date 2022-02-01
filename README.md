@@ -1,4 +1,10 @@
 # Interview_Questions
+General
+--------------
+1. What is CDN?
+2. Expalin how you have written CSS? Will you choose to write inline CSS?
+
+
 
 Javascript
 --------------------
@@ -7,13 +13,24 @@ Javascript
 
 ReactJs
 -------------------
-1. What are the difference between React and Javascript? 
-2. Why to use React?
+1. What are the difference between React and Javascript? Jquery and React?
+    - Virtual DOM and DOM
+    - JSX - logic and HTML coding in one page
+    - React represent main View (UI layer) of project.
+3. Why to use React?
+4. What are the libraries you used in React.
+5. How to get details from server? Explain.
+6. React build process.
+    - Packaging process.
 
 
 Redux
 ----------
 1. Redux workflow.
+
+NodeJs
+----------------
+1. How you used NodeJs in your Project.
 
 Previous Experience related
 --------------------------------
