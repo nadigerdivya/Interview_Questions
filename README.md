@@ -8,7 +8,10 @@ General
 
 Javascript
 --------------------
-
+1. Differences in ES6 and ES7?
+2. Difference between == and ===?
+3. What is object in JS?
+4. What is Map?
 
 
 ReactJs
@@ -22,11 +25,13 @@ ReactJs
 5. How to get details from server? Explain.
 6. React build process.
     - Packaging process.
+7. What version of React you used?
 
 
 Redux
 ----------
 1. Redux workflow.
+2. Why Redux.
 
 NodeJs
 ----------------
@@ -38,6 +43,7 @@ Previous Experience related
 2. Why moved towards React?
 3. What is your role?
 4. What components you have worked on? Explain? - related to react.
+5. Reason for geting good performer award.
 
 Coding
 ----------
