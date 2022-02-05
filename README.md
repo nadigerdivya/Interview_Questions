@@ -49,3 +49,9 @@ Coding
 ----------
 1. React status bar based on object consisting of 3 values - critical, warning and normal.
     - Need to fetch the values from props and assign it to div element's width.
+2.  1. Find each char occurances
+    2. Remove duplicate in it. 
+    3. Do not add uppercase values.
+    4. Why the sequence is changed?
+3. Find the ancestors for two Nodes 
+    - Binary tree problem
