@@ -53,5 +53,5 @@ Coding
     2. Remove duplicate in it. 
     3. Do not add uppercase values.
     4. Why the sequence is changed?
-3. Find the ancestors for two Nodes 
+3. Find the ancestor for two Nodes 
     - Binary tree problem
