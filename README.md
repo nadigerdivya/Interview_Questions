@@ -5,7 +5,6 @@ General
 2. Expalin how you have written CSS? Will you choose to write inline CSS?
 
 
-
 Javascript
 --------------------
 1. Differences in ES6 and ES7?
@@ -32,6 +31,7 @@ Redux
 ----------
 1. Redux workflow.
 2. Why Redux.
+3. Will React hooks replaces the Redux?
 
 NodeJs
 ----------------
@@ -44,6 +44,7 @@ Previous Experience related
 3. What is your role?
 4. What components you have worked on? Explain? - related to react.
 5. Reason for geting good performer award.
+6. How did you handle the complaince in your project in pharma company?
 
 Coding
 ----------
@@ -55,3 +56,9 @@ Coding
     4. Why the sequence is changed?
 3. Find the ancestor for two Nodes 
     - Binary tree problem
+4. Reverse the input.
+    - Input can be string or integer
+5. Finding output for code
+    - this keyword
+    - setTimeout
+   
