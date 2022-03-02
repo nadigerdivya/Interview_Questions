@@ -12,7 +12,6 @@ General
     -  What is Jest? How to include and work on it?
     -  What is TDD?
 7. How do you check code  quality?
-8. 
 
 
 Javascript
@@ -31,6 +30,7 @@ Javascript
 12. What is Event loop?
 13. What is this? Puzzels on this.
 14. What is array destructuring?
+15. Javascript design patterns.
 
 
 ReactJs
