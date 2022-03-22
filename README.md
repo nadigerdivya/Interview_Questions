@@ -96,4 +96,9 @@ Coding
     - To register a call -> callName with action need to be registered => obj.register(action, callName)
     - To dispatch a call -> callName should execute based on action. Should accept data as parameter. => obj.dispatch(action, data)
     - To unregister a call -> callName with particular action should get unregistered. => obj.unregister(action, callName)
+7. Design and develop Airline Price Calculator
+    - Input - [['United', 150, 'Premium'], ['Delta', '50, 'Economy']] 
+    - Output - Price should be calculated for United airles with Premium seat for 150 miles.
+    - Price of per mile will be given. Additional charges for Premium seat(value will be given).
+    - Price per mile will be different for different airlines. Also for different seat class.
    
