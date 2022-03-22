@@ -31,6 +31,10 @@ Javascript
 13. What is this? Puzzels on this.
 14. What is array destructuring?
 15. Javascript design patterns.
+16. How JavaScript is dynamically typed language?
+17. How inheritance is achieved in JavaScript.
+18. How to check Object are equal? How to check objects has same properties.
+19. Explain Coercion in JavaScript.
 
 
 ReactJs
