@@ -12,6 +12,7 @@ General
     -  What is Jest? How to include and work on it?
     -  What is TDD?
 7. How do you check code  quality?
+8. What is minification? What is minified version? Why it is required? How it is minified?
 
 
 Javascript
@@ -35,6 +36,7 @@ Javascript
 17. How inheritance is achieved in JavaScript.
 18. How to check Object are equal? How to check objects has same properties.
 19. Explain Coercion in JavaScript.
+20. What is Wrapper function? why it is required? what it does?
 
 
 ReactJs
@@ -97,8 +99,9 @@ Coding
     - To dispatch a call -> callName should execute based on action. Should accept data as parameter. => obj.dispatch(action, data)
     - To unregister a call -> callName with particular action should get unregistered. => obj.unregister(action, callName)
 7. Design and develop Airline Price Calculator
-    - Input - [['United', 150, 'Premium'], ['Delta', '50, 'Economy']] 
+    - Input - [['United', 150, 'Premium'], ['Delta', '50', 'Economy']] 
     - Output - Price should be calculated for United airles with Premium seat for 150 miles.
     - Price of per mile will be given. Additional charges for Premium seat(value will be given).
     - Price per mile will be different for different airlines. Also for different seat class.
+8. Print array of 5 elements for every second. - Each element in the array should be printed with 1 sec interval.
    
