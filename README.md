@@ -104,4 +104,8 @@ Coding
     - Price of per mile will be given. Additional charges for Premium seat(value will be given).
     - Price per mile will be different for different airlines. Also for different seat class.
 8. Print array of 5 elements for every second. - Each element in the array should be printed with 1 sec interval.
+9. ValidParantheses - Given a string s containing characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+    - Input: 2(( ..+))5 
+      Output: true
+      
    
