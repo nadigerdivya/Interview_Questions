@@ -13,6 +13,7 @@ General
     -  What is TDD?
 7. How do you check code  quality?
 8. What is minification? What is minified version? Why it is required? How it is minified?
+9. Rate yourself for React out of 10?
 
 
 Javascript
@@ -76,6 +77,11 @@ Previous Experience related / Behavioral
 5. Reason for geting good performer award.
 6. How did you handle the complaince in your project in pharma company?
 7. How do you mentor your juniors? Difference between mentoring and coaching?
+8. Tell me how did you develop PeoplePicker component?
+9. Tell me about the time when you have to work on something new?
+10. Give me 3 positive and negative things about your project?
+11. What makes successful developer?
+12. What makes successful Project?
 
 Coding
 ----------
