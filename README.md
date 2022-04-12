@@ -39,6 +39,11 @@ Javascript
 19. Explain Coercion in JavaScript.
 20. What is Wrapper function? why it is required? what it does?
 
+HTML and CSS
+---------------
+1. Tell the priority of css when same css applied with tag name and class name?
+    A: class will take priority. 
+
 
 ReactJs
 -------------------
@@ -113,5 +118,6 @@ Coding
 9. ValidParantheses - Given a string s containing characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
     - Input: 2(( ..+))5 
       Output: true
+10. Build Shopping Address widget (Carasoul widget).
       
    
