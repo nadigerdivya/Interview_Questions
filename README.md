@@ -57,6 +57,8 @@ ReactJs
 6. React build process.
     - Packaging process.
 7. What version of React you used?
+8. How Diffing algorithm works?
+9. What are the other state management libraries are there apart from Redux.
 
 
 Redux
@@ -67,7 +69,6 @@ Redux
 4. What is Flux? How it works?
 5. What is reducers? How it works? How it is built.
     -Ans: It built on Pure functions.
-6. How Diffing algorithm works?
 
 NodeJs
 ----------------
