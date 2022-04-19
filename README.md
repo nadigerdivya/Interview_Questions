@@ -8,10 +8,10 @@ General
     - Task estimations - Planning poker?
     - What is Scrum? 
 6. Testing
-    - How Unit testing id done?
+    - How Unit testing is done?
     -  What is Jest? How to include and work on it?
     -  What is TDD?
-7. How do you check code  quality?
+7. How do you check code quality?
 8. What is minification? What is minified version? Why it is required? How it is minified?
 9. Rate yourself for React out of 10?
 
