@@ -38,6 +38,8 @@ Javascript
 18. How to check Object are equal? How to check objects has same properties.
 19. Explain Coercion in JavaScript.
 20. What is Wrapper function? why it is required? what it does?
+21. Difference between let and const? Ans - Reassignment is not possible to const but in let it is possible.
+22. Difference between arrow function and regular function? When to choose between them?
 
 HTML and CSS
 ---------------
