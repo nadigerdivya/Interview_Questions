@@ -61,6 +61,7 @@ ReactJs
 7. What version of React you used?
 8. How Diffing algorithm works?
 9. What are the other state management libraries available for react apart from Redux.
+10. What are the advantages and disadvantages of closure?
 
 
 Redux
