@@ -15,6 +15,7 @@ General
 8. What is minification? What is minified version? Why it is required? How it is minified?
 9. Rate yourself for React out of 10?
 10. What is the difference between Rest API and GraphQL?
+11. What is Lazy Loading?
 
 
 Javascript
