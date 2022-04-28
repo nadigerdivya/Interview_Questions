@@ -14,6 +14,7 @@ General
 7. How do you check code quality?
 8. What is minification? What is minified version? Why it is required? How it is minified?
 9. Rate yourself for React out of 10?
+10. What is the difference between Rest API and GraphQL?
 
 
 Javascript
@@ -92,6 +93,7 @@ Previous Experience related / Behavioral
 10. Give me 3 positive and negative things about your project?
 11. What makes successful developer?
 12. What makes successful Project?
+13. How did you handled Performance in your projects?
 
 Coding
 ----------
@@ -110,6 +112,7 @@ Coding
     - setTimeout
     - Promises
     - let, var const
+    - block scope, closure, hoisting
 6. Create a class
     - To register a call -> callName with action need to be registered => obj.register(action, callName)
     - To dispatch a call -> callName should execute based on action. Should accept data as parameter. => obj.dispatch(action, data)
