@@ -20,7 +20,7 @@ General
 
 Javascript
 --------------------
-1. Differences in ES6 and ES7?
+1. Difference between ES6 and ES7? Difference between ES5 and ES6?
 2. Difference between == and ===?
 3. What is object in JS?
 4. What is Map?
@@ -42,7 +42,8 @@ Javascript
 20. What is Wrapper function? why it is required? what it does?
 21. Difference between let and const? Ans - Reassignment is not possible to const but in let it is possible.
 22. Difference between arrow function and regular function? When to choose between them?
-23. What is callback hell in javascript
+23. What is callback hell in javascript?
+24. What are the advantages and disadvantages of closure?
 
 HTML and CSS
 ---------------
@@ -64,7 +65,7 @@ ReactJs
 7. What version of React you used?
 8. How Diffing algorithm works?
 9. What are the other state management libraries available for react apart from Redux.
-10. What are the advantages and disadvantages of closure?
+10. What is controlled and uncontrolled components in react?
 
 
 Redux
@@ -77,6 +78,7 @@ Redux
     -Ans: It built on Pure functions.
 6. Why Redux required? When to choose between Redux and other state management system.
 7. What is the role of Reducer?
+8. Is it required to store all data/state into reducer? 
 
 NodeJs
 ----------------
@@ -130,5 +132,6 @@ Coding
     - Input: 2(( ..+))5 
       Output: true
 10. Build Shopping Address widget (Carasoul widget).
+11. Print Prime numbers between the specified interval. For eg. n = 10 => Print all prime nubers from 1 to 10. If n = 100, print all prime numbers from 1 to 100.
       
    
