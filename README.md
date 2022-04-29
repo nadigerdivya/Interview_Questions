@@ -42,6 +42,7 @@ Javascript
 20. What is Wrapper function? why it is required? what it does?
 21. Difference between let and const? Ans - Reassignment is not possible to const but in let it is possible.
 22. Difference between arrow function and regular function? When to choose between them?
+23. What is callback hell in javascript
 
 HTML and CSS
 ---------------
@@ -75,6 +76,7 @@ Redux
 5. What is reducers? How it works? How it is built.
     -Ans: It built on Pure functions.
 6. Why Redux required? When to choose between Redux and other state management system.
+7. What is the role of Reducer?
 
 NodeJs
 ----------------
