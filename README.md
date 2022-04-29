@@ -43,7 +43,7 @@ Javascript
 21. Difference between let and const? Ans - Reassignment is not possible to const but in let it is possible.
 22. Difference between arrow function and regular function? When to choose between them?
 23. What is callback hell in javascript?
-24. What are the advantages and disadvantages of closure?
+24. What are the advantages and disadvantages of closure? A: https://dev.to/provish/closures-in-javascript-5fab
 
 HTML and CSS
 ---------------
