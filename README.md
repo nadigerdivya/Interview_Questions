@@ -16,6 +16,8 @@ General
 9. Rate yourself for React out of 10?
 10. What is the difference between Rest API and GraphQL?
 11. What is Lazy Loading?
+12. What library did you use for Unit testing? How dod you do unit testing?
+13. What do you prefer for unit test cases? Is it good to write test cases while working on an each use case or at the end of development?
 
 
 Javascript
@@ -99,6 +101,7 @@ Previous Experience related / Behavioral
 11. What makes successful developer?
 12. What makes successful Project?
 13. How did you handled Performance in your projects?
+14. Tell me about a time when you worked on strange/complex story?
 
 Coding
 ----------
