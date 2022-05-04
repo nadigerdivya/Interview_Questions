@@ -18,6 +18,7 @@ General
 11. What is Lazy Loading?
 12. What library did you use for Unit testing? How dod you do unit testing?
 13. What do you prefer for unit test cases? Is it good to write test cases while working on an each use case or at the end of development?
+14. What is the difference between Javascript class and Java/.Net class?
 
 
 Javascript
@@ -33,7 +34,7 @@ Javascript
 9. What is async and await?
 10. Difference between async/await and promises.
 11. Puzzels on async, await and promises.
-12. What is Event loop?
+12. What is Event loop? A: Its an concurrency module. (Talk about it)
 13. What is this? Puzzels on this.
 14. What is array destructuring?
 15. Javascript design patterns.
@@ -46,11 +47,25 @@ Javascript
 22. Difference between arrow function and regular function? When to choose between them?
 23. What is callback hell in javascript?
 24. What are the advantages and disadvantages of closure? A: https://dev.to/provish/closures-in-javascript-5fab
+25. What is github? why it is used? What is your day to day activity with github?
+26. What is DOM? Which data structures it will use?
+27. What us concurrency module in Javascript?
+28. Why we cannot change the value of Const in javascript? A: Talk about Reference by value.
 
 HTML and CSS
 ---------------
 1. Tell the priority of css when same css applied with tag name and class name?
     A: class will take priority. 
+2. What is Specificity in CSS?
+3. What is the specificty of this line?
+    <div class='', id='', style=''></div> 
+    A: style will take higher priority. (Inline style)
+4. Give me 5 features of HTML?
+5. What is HTML Semantics?
+6. What is Box model in CSS?
+7. What is the differemce between px and percentage? When to use what?
+8. What is difference between padding and margin?
+9. What is 1rem? Why it is used?
 
 
 ReactJs
@@ -85,6 +100,7 @@ Redux
 NodeJs
 ----------------
 1. How you used NodeJs in your Project.
+2. Why NodeJs required?
 
 Previous Experience related / Behavioral
 --------------------------------
@@ -136,5 +152,15 @@ Coding
       Output: true
 10. Build Shopping Address widget (Carasoul widget).
 11. Print Prime numbers between the specified interval. For eg. n = 10 => Print all prime nubers from 1 to 10. If n = 100, print all prime numbers from 1 to 100.
+12. Design a page below using HTML and CSS?
+    \\\\\\\\\\\\\\\\\\\\\\
+    \           \         \
+    \           \         \
+    \           \\\\\\\\\\\       
+    \           \         \
+    \           \\\\\\\\\\\
+    \           \         \
+    \           \         \
+    \\\\\\\\\\\\\\\\\\\\\\\
       
    
