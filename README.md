@@ -2,23 +2,22 @@
 General
 --------------
 1. What is CDN?
-2. Expalin how you have written CSS? Will you choose to write inline CSS?
-3. Explain CI/CD pipeline?
-4. How Agile methodology works?
+2. Explain CI/CD pipeline?
+3. How Agile methodology works?
     - Task estimations - Planning poker?
     - What is Scrum? 
-6. Testing
+4. Testing
     - How Unit testing is done?
     -  What is Jest? How to include and work on it?
     -  What is TDD?
-7. How do you check code quality?
-8. What is minification? What is minified version? Why it is required? How it is minified?
-9. Rate yourself for React out of 10?
-10. What is the difference between Rest API and GraphQL?
-11. What is Lazy Loading?
-12. What library did you use for Unit testing? How dod you do unit testing?
-13. What do you prefer for unit test cases? Is it good to write test cases while working on an each use case or at the end of development?
-14. What is the difference between Javascript class and Java/.Net class?
+5. How do you check code quality?
+6. What is minification? What is minified version? Why it is required? How it is minified?
+7. Rate yourself for React out of 10?
+8. What is the difference between Rest API and GraphQL?
+9. What is Lazy Loading?
+10. What library did you use for Unit testing? How did you do unit testing?
+11. What do you prefer for unit test cases? Is it good to write test cases while working on an each use case or at the end of development?
+12. What is the difference between Javascript class and Java/.Net class?
     A: Talk about dynamically typed and mutable concept.
 
 
@@ -69,6 +68,7 @@ HTML and CSS
 9. What is 1rem? Why it is used?
 10. What is !important in CSS?
 11. Does CSS follows top to bottom approach?
+12. Expalin how you have written CSS? Will you choose to write inline CSS?
 
 
 ReactJs
