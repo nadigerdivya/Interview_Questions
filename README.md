@@ -19,6 +19,8 @@ General
 11. What do you prefer for unit test cases? Is it good to write test cases while working on an each use case or at the end of development?
 12. What is the difference between Javascript class and Java/.Net class?
     A: Talk about dynamically typed and mutable concept.
+13. What is github? why it is used? What is your day to day activity with github?
+14. What is DOM? Which data structure it will use?
 
 
 Javascript
@@ -47,10 +49,8 @@ Javascript
 22. Difference between arrow function and regular function? When to choose between them?
 23. What is callback hell in javascript?
 24. What are the advantages and disadvantages of closure? A: https://dev.to/provish/closures-in-javascript-5fab
-25. What is github? why it is used? What is your day to day activity with github?
-26. What is DOM? Which data structures it will use?
-27. What us concurrency module in Javascript?
-28. Why we cannot change the value of Const in javascript? A: Talk about Reference by value.
+25. What us concurrency module in Javascript?
+26. Why we cannot change the value of Const in javascript? A: Talk about Reference by value.
 
 HTML and CSS
 ---------------
