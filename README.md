@@ -19,6 +19,7 @@ General
 12. What library did you use for Unit testing? How dod you do unit testing?
 13. What do you prefer for unit test cases? Is it good to write test cases while working on an each use case or at the end of development?
 14. What is the difference between Javascript class and Java/.Net class?
+    A: Talk about dynamically typed and mutable concept.
 
 
 Javascript
@@ -34,7 +35,7 @@ Javascript
 9. What is async and await?
 10. Difference between async/await and promises.
 11. Puzzels on async, await and promises.
-12. What is Event loop? A: Its an concurrency module. (Talk about it)
+12. What is Event loop? A: Its a concurrency module. (Talk about it)
 13. What is this? Puzzels on this.
 14. What is array destructuring?
 15. Javascript design patterns.
@@ -66,6 +67,8 @@ HTML and CSS
 7. What is the differemce between px and percentage? When to use what?
 8. What is difference between padding and margin?
 9. What is 1rem? Why it is used?
+10. What is !important in CSS?
+11. Does CSS follows top to bottom approach?
 
 
 ReactJs
