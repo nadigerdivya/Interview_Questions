@@ -19,8 +19,9 @@ General
 11. What do you prefer for unit test cases? Is it good to write test cases while working on an each use case or at the end of development?
 12. What is the difference between Javascript class and Java/.Net class?
     A: Talk about dynamically typed and mutable concept.
-13. What is github? why it is used? What is your day to day activity with github?
-14. What is DOM? Which data structure it will use?
+13. What is git? why it is used? What is your day to day activity with git?
+14. What is rebase in Git?
+15. What is DOM? Which data structure it will use?
 
 
 Javascript
