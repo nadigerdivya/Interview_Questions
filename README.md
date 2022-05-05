@@ -68,7 +68,7 @@ HTML and CSS
 8. What is difference between padding and margin?
 9. What is 1rem? Why it is used?
 10. What is !important in CSS?
-11. Does CSS follows top to bottom approach?
+11. Does CSS follows top to bottom approach? A: Yes, its top to bottom and right to left approach
 12. Expalin how you have written CSS? Will you choose to write inline CSS?
 
 
