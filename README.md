@@ -88,6 +88,7 @@ ReactJs
 8. How Diffing algorithm works?
 9. What are the other state management libraries available for react apart from Redux.
 10. What is controlled and uncontrolled components in react?
+11. What is Props drilling in React? How to avoid it?
 
 
 Redux
