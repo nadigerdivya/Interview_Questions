@@ -44,14 +44,14 @@ Javascript
 15. Javascript design patterns.
 16. How JavaScript is dynamically typed language?
 17. How inheritance is achieved in JavaScript.
-18. How to check Object are equal? How to check objects has same properties.
+18. How to check Objects are equal? How to check object has same properties.
 19. Explain Coercion in JavaScript.
 20. What is Wrapper function? why it is required? what it does?
 21. Difference between let and const? Ans - Reassignment is not possible to const but in let it is possible.
 22. Difference between arrow function and regular function? When to choose between them?
 23. What is callback hell in javascript?
 24. What are the advantages and disadvantages of closure? A: https://dev.to/provish/closures-in-javascript-5fab
-25. What us concurrency module in Javascript?
+25. What is concurrency module in Javascript?
 26. Why we cannot change the value of Const in javascript? A: Talk about Reference by value.
 
 HTML and CSS
@@ -168,5 +168,13 @@ Coding
     \           \         \
     \           \         \
     \\\\\\\\\\\\\\\\\\\\\\\
-      
+ 13. Create a class Model. These are the methods for the Model:
+    - .get
+    - .set
+    - .has
+    - .unset
+    
+    Should create class for
+        - const person = new Model({ name: 'Jess', age: 22 });
+        - var company = new Model();
    
