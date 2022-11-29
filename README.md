@@ -89,6 +89,9 @@ ReactJs
 9. What are the other state management libraries available for react apart from Redux.
 10. What is controlled and uncontrolled components in react?
 11. What is Props drilling in React? How to avoid it?
+12. How to pass properties between two siblings?
+        A: 1 option : use of Redux
+           2 option : Context API (avoiding props drilling)
 
 
 Redux
