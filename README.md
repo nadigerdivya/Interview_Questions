@@ -23,6 +23,7 @@ General
 14. What is rebase in Git?
 15. What is DOM? Which data structure it will use?
 16. Difference between local storage, session storage and cookies? When to use what and why?
+17. Benefits of lock file in yarn and npm?
 
 
 Javascript
