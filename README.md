@@ -53,7 +53,7 @@ Javascript
 24. What are the advantages and disadvantages of closure? A: https://dev.to/provish/closures-in-javascript-5fab
 25. What is concurrency module in Javascript?
 26. Why we cannot change the value of Const in javascript? A: Talk about Reference by value.
-27. Puzzels on spread operator.
+27. Puzzels on spread operator and destructuring.
 28. Puzzels on async-await. (Order, does it need await)
 
 HTML and CSS
