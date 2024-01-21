@@ -53,6 +53,8 @@ Javascript
 24. What are the advantages and disadvantages of closure? A: https://dev.to/provish/closures-in-javascript-5fab
 25. What is concurrency module in Javascript?
 26. Why we cannot change the value of Const in javascript? A: Talk about Reference by value.
+27. Puzzels on spread operator.
+28. Puzzels on async-await. (Order, does it need await)
 
 HTML and CSS
 ---------------
@@ -180,4 +182,38 @@ Coding
     Should create class for
         - const person = new Model({ name: 'Jess', age: 22 });
         - var company = new Model();
+
+14. You are a developer for a university. Your current project is to develop a system for students to find courses they share with friends. The university has a system for querying       courses students are enrolled in, returned as a list of (ID, course) pairs.
+
+    Write a function that takes in a collection of (student ID number, course name) pairs and returns, for every pair of students, a collection of all courses they share.
+
+
+    Sample Input:
+    
+    enrollments1 = [
+      ["58", "Linear Algebra"],
+      ["94", "Art History"],
+      ["94", "Operating Systems"],
+      ["17", "Software Design"],
+      ["58", "Mechanics"],
+      ["58", "Economics"],
+      ["17", "Linear Algebra"],
+      ["17", "Political Science"],
+      ["94", "Economics"],
+      ["25", "Economics"],
+      ["58", "Software Design"],
+    ]
+
+    Sample Output (pseudocode, in any order):
+    
+    find_pairs(enrollments1) =>
+    {
+      "58,17": ["Software Design", "Linear Algebra"]
+      "58,94": ["Economics"]
+      "58,25": ["Economics"]
+      "94,25": ["Economics"]
+      "17,94": []
+      "17,25": []
+    }
+
    
